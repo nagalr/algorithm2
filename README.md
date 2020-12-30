@@ -4,8 +4,8 @@
 - venv/Scripts
   - Algorithms
     - Dynamic Programming
-      - [Fibonacci.py](https://github.com/VicodinAbuser/ZTM-DS-and-Algo-Python/blob/master/venv/Scripts/Algorithms/Dynamic%20Programming/Fibonacci.py)
-      - [Memoization.py](https://github.com/VicodinAbuser/ZTM-DS-and-Algo-Python/blob/master/venv/Scripts/Algorithms/Dynamic%20Programming/Memoization.py)
+      - [Fibonacci.py]
+      - [Memoization.py]
       
     - Recursion
       - [Factorial.py](https://github.com/VicodinAbuser/ZTM-DS-and-Algo-Python/blob/master/venv/Scripts/Algorithms/Recursion/Factorial.py)
