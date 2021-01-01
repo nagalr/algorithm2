@@ -19,7 +19,7 @@ def simple_frc(array):
             dictionary[item] = True
     return None
 
-array = [2,1,4,1,5,2,6]
+array = [2,1,1,2,5,2,6]
 #print(simple_frc(array))
 
 #The time complexity is O(n) as we are looping through the array only once
